@@ -7,9 +7,7 @@ Crie um algoritmo, na linguagem que achar melhor, para escolher as garrafas a se
 - 3) Quando não for possível esvaziar todas garrafas escolhidas, deixe a menor sobra possível;
 - 4) utilize o menor número de garrafas possível;
 
-## Exemplos
-
-1:
+## Exemplos :
 
 ```
 Insira o volume do galão:

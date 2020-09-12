@@ -30,39 +30,6 @@ Garrafa 5:
 Resposta: [1L, 4.5L, 1.5L], sobra 0L
 ```
 
-2:
-
-```
-Insira o volume do galão:
-5
-Quantidade de garrafas:
-4
-Garrafa 1:
-1
-Garrafa 2:
-3
-Garrafa 3:
-4.5
-Garrafa 4:
-1.5
-
-Resposta: [1L, 4.5L], sobra 0.5L;
-```
-
-3:
-
-```
-Insira o volume do galão:
-4.9
-Garrafas:
-2
-Garrafa 1:
-4.5
-Garrafa 2:
-0.4
-
-Resposta: [4.5L, 0.4L], sobra 0L;
-```
 
 observação: o formato de entrada de dados é um exemplo, faça da forma que achar melhor. pode ser recebendo do terminal pela entrada padrão (stdin), por paramêtros de linha de comando (ex: --galao "4.9" --garrafa "4.5" --garrafa "0.4").
 
